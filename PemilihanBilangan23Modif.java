@@ -10,5 +10,7 @@ public class PemilihanBilangan23Modif {
         //Ternary operator
         hasil = (angka % 2 == 0) ? "Ganjil" : "Genap";
         System.out.println(hasil);
+
+        sc.close();
     }
 }

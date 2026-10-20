@@ -11,5 +11,7 @@ public class PemilihanBilangan23 {
         } else {
             System.out.println("Angka " + angka + " termasuk bilangan ganjil");
         }
+
+        sc.close();
     }
 }

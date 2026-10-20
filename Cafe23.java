@@ -50,5 +50,7 @@ public class Cafe23 {
 
         System.out.println("Item pembelian: " + jumlah + " " + menu + " dengan ukuran cup " + ukuranCup);
         System.out.println("Nominal bayar: " + nominalBayar);
+
+        sc.close();
     }
 }

@@ -16,5 +16,7 @@ public class PemilihanHariDenganIf23 {
         else {
            System.out.println("Invalid number"); 
         }
+
+        input.close();
     }
 }

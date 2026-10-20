@@ -68,5 +68,7 @@ public class SIAKAD23 {
 
         System.out.println("Nilai akhir huruf: " + nilaiAkhirHuruf);
         System.out.println("Kualifikasi: " + kualifikasi);
+
+        input.close();
     }
 }
